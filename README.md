@@ -13,4 +13,4 @@ The idea is to have a couple of basic templates using Node, Express.js, Hogan (H
 [http://expressjs.com/](http://expressjs.com/)
 
 ## Folders
-[/basic](https://github.com/andyj/hogan-express-template/tree/master/basic) - HTML 5 Boilerplate
+[/basic](https://github.com/andyj/hogan-express-template/tree/master/basic) - HTML 5 Boilerplate using a Layout file wrapper
